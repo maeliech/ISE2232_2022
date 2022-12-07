@@ -2,7 +2,6 @@
 
 ## 2022 Fall semester
 
-
 Computer network
 
 Inha University
